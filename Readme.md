@@ -1,4 +1,4 @@
-This is the 30 Days of Code Challenge via https://www.hackerrank.com/
+This is the 30 Days of Code Challenge via https://www.hackerrank.com/ and doing bonus stuff on top, also put into this repo
 The C++ edition version.
 
 It steps through
