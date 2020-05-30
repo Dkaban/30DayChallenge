@@ -1,7 +1,10 @@
+# 30 Days of Code Challenge
+## Language: C++
+
 This is the 30 Days of Code Challenge via https://www.hackerrank.com/ and doing bonus stuff on top, also put into this repo
 The C++ edition version.
 
-It steps through
+### Table Of Contents
 - Hello World
 - Daya Types
 - Operators
