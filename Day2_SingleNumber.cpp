@@ -1,4 +1,10 @@
-//Practice from https://leetcode.com/
+// THE PROBLEM
+// ***************************
+// Given a non-empty array of integers, every element appears twice except for one. Find that single one.
+// Solution Created By: Dustin Kaban
+// Date: May 28th, 2020
+// ***************************
+
 class Solution 
 {
 public:
