@@ -1,3 +1,10 @@
+// THE PROBLEM
+// ***************************
+// Accept 3 integers as input and output the sum of the 3
+// Solution Created By: Dustin Kaban
+// Date: May 27th, 2020
+// ***************************
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -7,7 +14,6 @@ using namespace std;
 
 int main() 
 {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
     int n1 = 1;
     int n2 = 2;
     int n3 = 7;
