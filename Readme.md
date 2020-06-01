@@ -1,8 +1,7 @@
 # 30 Days of Code Challenge
 ## Language: C++
 
-This is the 30 Days of Code Challenge via https://www.hackerrank.com/ and doing bonus stuff on top, also put into this repo
-The C++ edition version.
+This is the 30 Days of Code Challenge via https://www.hackerrank.com/ and doing bonus stuff on top.
 
 Challenge can be found at https://www.hackerrank.com/domains/tutorials/30-days-of-code
 
