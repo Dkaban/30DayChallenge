@@ -1,8 +1,12 @@
-//*************PROBLEM
-//    Complete the function hourglassSum in the editor below. 
-//    It should return an integer, the maximum hourglass sum in the array.
-//    hourglassSum has the following parameter(s):
-//      - arr: an array of integers
+// THE PROBLEM
+// ***************************
+// Complete the function hourglassSum in the editor below. 
+// It should return an integer, the maximum hourglass sum in the array.
+// hourglassSum has the following parameter(s):
+// arr: an array of integers
+// Solution Created By: Dustin Kaban
+// Date: May 29th, 2020
+// ***************************
 
 
 #include <bits/stdc++.h>
