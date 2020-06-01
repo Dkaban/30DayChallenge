@@ -1,5 +1,10 @@
+// THE PROBLEM
+// ***************************
 // Given an integer, n , print its first 10 multiples. 
 // Each multiple n*i (where 1 <= i <= 10) should be printed on a new line in the form: n x i = result.
+// Solution Created By: Dustin Kaban
+// Date: May 31st, 2020
+// ***************************
 
 #include <bits/stdc++.h>
 
