@@ -1,8 +1,12 @@
-//The Challenge
-//For each integer nin the interval [a,b] :
-//  If 1 <= n <= 9, then print the English representation of it in lowercase. That is "one" for , "two" for , and so on.
-//  Else if n > 9 and it is an even number, then print "even".
-//  Else if n > 9 and it is an odd number, then print "odd".
+// THE PROBLEM
+// ***************************
+// For each integer nin the interval [a,b] :
+// If 1 <= n <= 9, then print the English representation of it in lowercase. That is "one" for , "two" for , and so on.
+// Else if n > 9 and it is an even number, then print "even".
+// Else if n > 9 and it is an odd number, then print "odd".
+// Solution Created By: Dustin Kaban
+// Date: May 30th, 2020
+// ***************************
 
 #include <iostream>
 #include <cstdio>
