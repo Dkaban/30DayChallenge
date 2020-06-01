@@ -1,4 +1,9 @@
+// THE PROBLEM
+// ***************************
 // Write a function that returns the max out of 4 integers passed to it.
+// Solution Created By: Dustin Kaban
+// Date: May 30th, 2020
+// ***************************
 
 #include <iostream>
 #include <cstdio>
