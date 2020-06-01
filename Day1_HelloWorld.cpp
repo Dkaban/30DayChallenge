@@ -1,3 +1,10 @@
+// THE PROBLEM
+// ***************************
+// Hello World in C++!
+// Solution Created By: Dustin Kaban
+// Date: May 27th, 2020
+// ***************************
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
