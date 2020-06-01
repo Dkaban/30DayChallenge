@@ -1,5 +1,10 @@
-//Print each element on a new line in the same order it was received as input. 
-//Note that the floating point value should be correct up to 3 decimal places and the double to 9 decimal places.
+// THE PROBLEM
+// ***************************
+// Print each element on a new line in the same order it was received as input. 
+// Note that the floating point value should be correct up to 3 decimal places and the double to 9 decimal places.
+// Solution Created By: Dustin Kaban
+// Date: May 30th, 2020
+// ***************************
 
 #include <iostream>
 #include <cstdio>
