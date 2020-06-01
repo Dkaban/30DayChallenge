@@ -1,3 +1,12 @@
+// THE PROBLEM
+// ***************************
+// Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), 
+// and tax percent (the percentage of the meal price being added as tax) for a meal, 
+// find and print the meal's total cost.
+// Solution Created By: Dustin Kaban
+// Date: May 28th, 2020
+// ***************************
+
 #include <bits/stdc++.h>
 
 using namespace std;
