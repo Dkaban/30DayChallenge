@@ -1,5 +1,10 @@
-//If (1<= n <= 9), then print the lowercase English word 
-//corresponding to the number (e.g., one for , two for , etc.); otherwise, print Greater than 9 instead.
+// THE PROBLEM
+// ***************************
+//  If (1<= n <= 9), then print the lowercase English word 
+//  corresponding to the number (e.g., one for , two for , etc.); otherwise, print Greater than 9 instead.
+// Solution Created By: Dustin Kaban
+// Date: May 30th, 2020
+// ***************************
 
 #include <bits/stdc++.h>
 
