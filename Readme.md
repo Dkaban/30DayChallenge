@@ -4,6 +4,8 @@
 This is the 30 Days of Code Challenge via https://www.hackerrank.com/ and doing bonus stuff on top, also put into this repo
 The C++ edition version.
 
+Challenge can be found at https://www.hackerrank.com/domains/tutorials/30-days-of-code
+
 ### Table Of Contents
 - Hello World
 - Daya Types
