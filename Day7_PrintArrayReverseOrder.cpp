@@ -1,5 +1,4 @@
-  
-// THE PROBLEM
+ // THE PROBLEM
 // ***************************
 // Given a size N and array of integers, print the array in reverse order
 // space separated.
