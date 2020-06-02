@@ -5,7 +5,7 @@
 // space separated.
 // NOTE: This is only a sample of the code (the rest of the code was provided by hackerrank.com)
 // Solution Created By: Dustin Kaban
-// Date: June 1st, 2020
+// Date: June 2nd, 2020
 // ***************************
 
 #include <bits/stdc++.h>
