@@ -1,4 +1,4 @@
-# Code Challenge
+# 30 Day Code Challenge
 ## Language: C++
 
 This is the 30 Days of Code Challenge via https://www.hackerrank.com/ and doing bonus stuff on top.
