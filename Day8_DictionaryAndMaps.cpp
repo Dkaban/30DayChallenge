@@ -47,7 +47,6 @@ void checkRecords(map<string,int> phoneBook)
     }
 }
 
-
 int main() {
     int n; //number of entries
     cin >> n;
