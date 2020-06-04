@@ -10,7 +10,8 @@
 
 using namespace std;
 
-// Complete the factorial function below.
+// We want to reduce n to 1 then we're done, all the while multiplying it by the decremented number
+// Ex: 3! is 3 * 2 * 1
 int factorial(int n) 
 {
     if(n!=1) return n * factorial(n-1);
