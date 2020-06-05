@@ -13,6 +13,10 @@
 
 using namespace std;
 
+//Convert the integer to a binary string
+//Convert that string into a char array so we can loop through it
+//Add to the count until we hit a 0, then reset the count.
+//Output the higher number of the count or the reset (consecutive or 0)
 void convertToBinary(int n)
 {
     string binaryString = bitset<32>(n).to_string();
@@ -21,22 +25,22 @@ void convertToBinary(int n)
     char char_array[x + 1]; 
     strcpy(char_array, binaryString.c_str()); 
 
-    int result = 0;
-    int count = 0;
+    int consecutiveOnesCount = 0;
+    int streakCount = 0;
     for (int i = 0; i < (int)sizeof(char_array)-1; i++) 
     { 
         if (char_array[i] == '0')
         {
-            count = 0; 
+            streakCount = 0; 
         }
         else
         {
-            count++;
-            result = max(result, count); 
+            streakCount++;
+            consecutiveOnesCount = max(consecutiveOnesCount, streakCount); 
         } 
     } 
 
-    cout << result << endl;
+    cout << consecutiveOnesCount << endl;
 }
 
 int main()
