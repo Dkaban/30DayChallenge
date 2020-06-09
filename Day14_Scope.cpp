@@ -2,6 +2,7 @@
 // ***************************
 // Complete the Difference class by creating a constructor that copies an array into elements
 // And a computeDifference function that gets the difference between the highest and lowest variables in an array
+// (Extra code is included to maintain functionality. Only the MY CODE section was created by me.
 // Solution Created By: Dustin Kaban
 // Date: June 9th, 2020
 // ***************************
