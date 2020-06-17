@@ -24,11 +24,13 @@ class Node{
 };
 class Solution{
     public:
-  		Node* insert(Node* root, int data) {
+	Node* insert(Node* root, int data) 
+	{
             if(root == NULL) {
                 return new Node(data);
             }
-            else {
+            else 
+	    {
                 Node* cur;
                 if(data <= root->data){
                     cur = insert(root->left, data);
@@ -43,7 +45,7 @@ class Solution{
            }
         }
 
-		int getHeight(Node* root)
+	int getHeight(Node* root)
         {
             if(!root) return -1;
 
@@ -55,7 +57,8 @@ class Solution{
 
 }; //End of Solution
 
-int main() {
+int main() 
+{
     Solution myTree;
     Node* root = NULL;
     int t;
@@ -63,7 +66,8 @@ int main() {
 
     cin >> t;
 
-    while(t-- > 0){
+    while(t-- > 0)
+    {
         cin >> data;
         root = myTree.insert(root, data);
     }
