@@ -24,7 +24,7 @@ Challenge can be found at https://www.hackerrank.com/domains/tutorials/30-days-o
 - Interfaces
 - Sorting
 - Generics
-- Binary Tree Search
+- Binary Search Tree
 - Running Time and Complexity
 - Nested Logic
 - RegEx, Patterns, Databases
