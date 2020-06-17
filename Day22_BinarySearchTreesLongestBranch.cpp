@@ -11,18 +11,21 @@
 
 using namespace std;	
 
-class Node{
+class Node
+{
     public:
         int data;
         Node *left;
         Node *right;
-        Node(int d){
+        Node(int d)
+	{
             data = d;
             left = NULL;
             right = NULL;
         }
 };
-class Solution{
+class Solution
+{
     public:
 	Node* insert(Node* root, int data) 
 	{
@@ -32,11 +35,13 @@ class Solution{
             else 
 	    {
                 Node* cur;
-                if(data <= root->data){
+                if(data <= root->data)
+		{
                     cur = insert(root->left, data);
                     root->left = cur;
                 }
-                else{
+                else
+		{
                     cur = insert(root->right, data);
                     root->right = cur;
                }
