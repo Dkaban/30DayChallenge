@@ -2,6 +2,7 @@
 ## Language: C++
 
 This is the 30 Days of Code Challenge via https://www.hackerrank.com/ and doing bonus stuff on top.
+All Challenges Completed. (June 24th, 2020)
 
 Challenge can be found at https://www.hackerrank.com/domains/tutorials/30-days-of-code
 
